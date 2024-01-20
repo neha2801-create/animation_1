@@ -24,6 +24,10 @@ Step 4: Tap View pull request and see merge pull request #3 from repo name is di
 Step 5: ![Alt text](image-5.png)
 
 Step 6:Check the changes 
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+
+
 
 
 
