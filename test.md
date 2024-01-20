@@ -14,7 +14,7 @@ Step 1: Go to Pull requests tab on main page of repository :
 Step 2: It shows New Pull request at top right corner:
 ![Alt text](image-1.png)
 
-Step 3: On clicking New Pull request : various branch names appear in a list , select the branch name which is newly created and see ( compare test_3 branch is ponited to main branch with an arrorw):
+Step 3: On clicking New Pull request : various branch names appear in a list , select the branch name which is newly created and see ( compare test_3 branch is ponited to main branch with an arrorw): Here we also have to keep on comitting from time to time and publish our branch changes from Github desktop application to remote github repo
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 
